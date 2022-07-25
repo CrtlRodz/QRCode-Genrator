@@ -1,6 +1,6 @@
 import pyqrcode
 import png
-import pyqrcode 
+
 # stringof QRCode
 qrcode_string="www.ctrlrodz.dev"
 # Generate QRCode
