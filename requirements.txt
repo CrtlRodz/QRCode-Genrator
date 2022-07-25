@@ -1,2 +1,4 @@
 pyqrcode
 png
+fastApi
+sqlalchemy
